@@ -1,0 +1,29 @@
+[
+    {
+        "okul_no": "25001",
+        "ad_soyad": "Ali Yılmaz",
+        "ders_adi": "Web Programlama",
+        "vize": 70,
+        "final": 80,
+        "odev": 90,
+        "proje": 85
+    },
+    {
+        "okul_no": "25002",
+        "ad_soyad": "Ayşe Demir",
+        "ders_adi": "Web Programlama",
+        "vize": 45,
+        "final": 50,
+        "odev": 60,
+        "proje": 70
+    },
+    {
+        "okul_no": "25003",
+        "ad_soyad": "Mehmet Kaya",
+        "ders_adi": "Web Programlama",
+        "vize": 30,
+        "final": 40,
+        "odev": 55,
+        "proje": 50
+    }
+]

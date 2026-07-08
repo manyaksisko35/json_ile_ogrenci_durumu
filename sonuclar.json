@@ -1,0 +1,29 @@
+[
+    {
+        "okul_no": "25001",
+        "ad_soyad": "Ali Yılmaz",
+        "ders_adi": "Web Programlama",
+        "donem_sonu_notu": 80.25,
+        "harf_notu": "BB",
+        "katsayi": "3.00",
+        "statu": "Başarılı"
+    },
+    {
+        "okul_no": "25002",
+        "ad_soyad": "Ayşe Demir",
+        "ders_adi": "Web Programlama",
+        "donem_sonu_notu": 52.25,
+        "harf_notu": "DD",
+        "katsayi": "1.00",
+        "statu": "Geçer"
+    },
+    {
+        "okul_no": "25003",
+        "ad_soyad": "Mehmet Kaya",
+        "ders_adi": "Web Programlama",
+        "donem_sonu_notu": 41.75,
+        "harf_notu": "FF",
+        "katsayi": "0.00",
+        "statu": "Kaldı"
+    }
+]
